@@ -1,1 +1,2 @@
-# resume-optimizer-llamaindex
+# resume optimizer llamaindex
+This application leverages Generative AI to automate and streamline the resume customization process. By analyzing an uploaded resume and job description, it generates an ATS-optimized, tailored resume that aligns closely with job requirements to improve visibility and selection chances.
